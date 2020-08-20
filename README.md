@@ -10,10 +10,10 @@
 -->
 
 <a href="https://github.com/OCNYang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OCNYang&show_icons=true&include_all_commits=true&theme=radical" alt="OCNYang's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OCNYang" alt="OCNYang's github stats" />
 </a>
 <a href="https://github.com/OCNYang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang" />
 </a>
 
 ### Languages and Tools:
