@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OCNYang" alt="OCNYang's github stats" />
 </a>
 <a href="https://github.com/OCNYang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact" />
 </a>
 
 ### Languages and Tools:
