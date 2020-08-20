@@ -1,16 +1,16 @@
-前线 **Android** 开发者<sup>[2015年-至今]</sup>，亦涉猎 **Flutter**。
+### 前线 **Android** 开发者<sup>[2015年-至今]</sup>，亦涉猎 **Flutter**。
 
 ### Github State
 <!--
-[![OCNYang's github stats](https://github-readme-stats.vercel.app/api?username=OCNYang)](https://github.com/OCNYang/github-readme-stats)
+[![OCNYang's github stats](https://github-readme-stats.vercel.app/api?username=OCNYang)](https://github.com/OCNYang?tab=repositories)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact&theme=radical)](https://github.com/OCNYang/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact&theme=radical)](https://github.com/OCNYang)
 -->
 
-<a href="https://github.com/OCNYang/github-readme-stats">
+<a href="https://github.com/OCNYang?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OCNYang" alt="OCNYang's github stats" />
 </a>
-<a href="https://github.com/OCNYang/github-readme-stats">
+<a href="https://github.com/OCNYang">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact" />
 </a>
 
