@@ -1,10 +1,20 @@
 ### Hi there, I'm OCNYang
 
-> 前线 **Android** 开发者[2016-2020™]，亦涉猎 **Flutter**。
+前线 **Android** 开发者[2016-2020™]，亦涉猎 **Flutter**。
 
 ### Github State
-
+<!--
 [![OCNYang's github stats](https://github-readme-stats.vercel.app/api?username=OCNYang)](https://github.com/OCNYang/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact&theme=radical)](https://github.com/OCNYang/github-readme-stats)
+-->
+
+<a href="https://github.com/OCNYang/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OCNYang&show_icons=true&include_all_commits=true&theme=radical" alt="OCNYang's github stats" />
+</a>
+<a href="https://github.com/OCNYang/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact&theme=radical" />
+</a>
 
 ### Languages and Tools:
 
@@ -22,6 +32,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 </p>
+
 
 <!--
 <a href="https://github.com/pinguo-zhouwei/MZBannerView">
