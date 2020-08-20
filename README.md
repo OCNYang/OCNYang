@@ -1,6 +1,4 @@
-### Hi there, I'm OCNYang
-
-前线 **Android** 开发者[2016-2020™]，亦涉猎 **Flutter**。
+前线 **Android** 开发者<sup>[2015年-至今]</sup>，亦涉猎 **Flutter**。
 
 ### Github State
 <!--
