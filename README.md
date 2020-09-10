@@ -4,7 +4,7 @@
 <!--
 [![OCNYang's github stats](https://github-readme-stats.vercel.app/api?username=OCNYang)](https://github.com/OCNYang?tab=repositories)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact&theme=radical)](https://github.com/OCNYang)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&hide=javascript,css,html&layout=compact&theme=radical)](https://github.com/OCNYang)
 -->
 
 <a href="https://github.com/OCNYang?tab=repositories">
