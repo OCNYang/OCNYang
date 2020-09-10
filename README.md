@@ -8,11 +8,12 @@
 -->
 
 <a href="https://github.com/OCNYang?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OCNYang" alt="OCNYang's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OCNYang&count_private=true" alt="OCNYang's github stats" />
 </a>
 <a href="https://github.com/OCNYang">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact&hide=html" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCNYang&layout=compact&hide=html" alt="Java,Kotlin,Dart"/>
 </a>
+<!-- 开发语言统计不准确，私有仓库无法统计在内 -->
 
 ### Languages and Tools:
 
