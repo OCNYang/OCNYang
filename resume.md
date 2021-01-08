@@ -7,7 +7,7 @@
 **毕业院校：** 河南城建学院 <sup>[本科·统招]</sup>  
 **大学专业：** 计算机科学与工程系 · 软件工程  
 **联系邮箱：** [ocnyang@gmail.com](mailto:ocnyang@gmail.com)  
-**开源地址：** [github.com/ocnyang](https://github.com/ocnyang) <sup>[stars:5k+]</sup>  
+**开源地址：** [github.com/ocnyang](https://github.com/ocnyang)  
 **个人博客：** [ocnyang.com](http://ocnyang.com/)  
 <!--       wechat:ocn_yang      -->
 
@@ -41,13 +41,13 @@
 * 在职期间为公司项目累积迭代更新近 100 个版本，从无有大型线上版本问题；
 
 #### 项目
-**《袋鼠配** <sup>[[下载][link_autoparts]]</sup>**》**
+**《袋鼠配** <sup>[[下载][link_autoparts]]</sup>**》**  
 简介：汽车零配件询报价供货平台，撮合汽配商和维修厂交易。  
 
-**《袋鼠保** <sup>[[下载][link_cloud]]</sup>**》**
+**《袋鼠保** <sup>[[下载][link_cloud]]</sup>**》**  
 简介：对接保险公司车损理赔系统和汽车售后市场零配件产业链和供应链。  
 
-**《袋鼠低碳** <sup>[[下载][link_recycling]]</sup>**》**
+**《袋鼠低碳** <sup>[[下载][link_recycling]]</sup>**》**  
 简介：汽车外修询报价平台，对损坏的事故车的零部件或保险财产进行回收修复的平台。
 
 **主要技术：**
@@ -72,13 +72,13 @@
 * 细致优化应用权限授权以适合国外用户，常进行代码自检，提高了产品的稳定性运行效率。
 
 #### 项目
-**《欧洲上品》**
+**《欧洲上品》**  
 简介：快销品类海淘形式的电商平台应用。  
 
-**《欧居汇-商家版》**
+**《欧居汇-商家版》**  
 简介：提供给国外商家的发布家具类商品的平台应用，整体功能形式类似闲鱼。  
 
-**《EuroooStock》**
+**《EuroooStock》**  
 简介：意大利之家旗下·有荣平台销售高端家具的跨境电商应用。  
 
 ### 北京十月逸栈科技有限公司 <sup>[实习]</sup> <sup>[2015年7月~2016年5月]</sup>
@@ -88,17 +88,17 @@
 
 喜欢学习比较前沿的新技术和知识，但鉴于有些不适合直接用于公司商业项目，故下班之余，我常写些自己项目来实践。
 
-**《静夜食》**<sup>[[下载][link_jingyes]]</sup> <sup>[2020年3月]</sup>
+**《静夜食》**<sup>[[下载][link_jingyes]]</sup> <sup>[2020年3月]</sup>  
 简介：完全采用 **Flutter 开发**，并经测试成功在 Android 和 iOS 两个系统流畅运行。一款菜谱类应用。  
 
-**《声印》**<sup>[[下载][link_lp]]</sup> <sup>[2019年2月]</sup>
+**《声印》**<sup>[[下载][link_lp]]</sup> <sup>[2019年2月]</sup>  
 简介：一款可以将自己的声音录下来并分享到微信朋友圈的小应用。  
 
-**《小秋像素》**<sup>[[下载][link_qpixel]]</sup> <sup>[2018年2月]</sup>
+**《小秋像素》**<sup>[[下载][link_qpixel]]</sup> <sup>[2018年2月]</sup>  
 简介：一款可以将头像、图片转变成像素图片的应用。  
 
-**《小秋魔盒》**<sup>[[下载][link_qbox]]</sup> <sup>[2017年4月]</sup>
-简介：一款功能丰富的生活类应用：新闻、微信美文、二维码扫描、日历、天气、笑话大全、日常功能等等。在应用商城上架后近 5 万下载量，后在 **[Github](https://github.com/OCNYang/QBox) 开源**(近 1.5k stars)。
+**《小秋魔盒》**<sup>[[下载][link_qbox]]</sup> <sup>[2017年4月]</sup>  
+简介：一款功能丰富的生活类应用：新闻、微信美文、二维码扫描、日历、天气、笑话大全、日常功能等等。在应用商城上架后近 5 万下载量，后在 **[Github](https://github.com/OCNYang/QBox) 开源**。
 
 [link_autoparts]: https://sj.qq.com/myapp/detail.htm?apkName=com.tongji.autoparts&info=587C6D9A25B3C1CCCB815539187B435A "袋鼠配应用宝下载地址"
 [link_cloud]: https://sj.qq.com/myapp/detail.htm?apkName=com.tongji.cloud&info=A7B87BC05D047D7074A0E97DA5857ACE "袋鼠保应用宝下载地址"
