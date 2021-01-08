@@ -1,13 +1,14 @@
 <h1 align=center>Android 开发工程师简历</h1>
+
 ## 基础信息
-* **姓　　名：**杨海振
-* **工作年限：**2015年~至今 <sup>[5年]</sup>
-* **毕业院校：**河南城建学院 <sup>[本科·统招]</sup>
-* **大学专业：**计算机科学与工程系 · 软件工程
-* **手机号码：**173-4850-6893 <sup>[杭州]</sup>
-* **联系邮箱：**[ocnyang@gmail.com](mailto:ocnyang@gmail.com)
-* **开源地址：**[github.com/ocnyang](https://github.com/ocnyang) <sup>[stars:5k+]</sup>
-* **个人博客：**[ocnyang.com](http://ocnyang.com/)
+
+- **姓　　名：**OCN.Yang
+- **工作年限：**2015年~至今 <sup>[6年]</sup>
+- **毕业院校：**河南城建学院 <sup>[本科·统招]</sup>
+- **大学专业：**计算机科学与工程系 · 软件工程
+- **联系邮箱：**[ocnyang@gmail.com](mailto:ocnyang@gmail.com)
+- **开源地址：**[github.com/ocnyang](https://github.com/ocnyang) <sup>[stars:5k+]</sup>
+- **个人博客：**[ocnyang.com](http://ocnyang.com/)
 
 ## 专业技能
 * 5 年移动开发设计经验，具有多前端（Android App，H5，微信小程序）开发能力；
