@@ -1,5 +1,5 @@
 ### 前线 **Android** 开发者<sup>[2015年-至今]</sup>，亦涉猎 **Flutter**。
-<!-- [[个人简介](https://github.com/OCNYang/OCNYang/blob/master/resume.md)] -->
+[[个人简介](https://github.com/OCNYang/OCNYang/blob/master/resume.md)]
 
 ### Github State
 <!--
