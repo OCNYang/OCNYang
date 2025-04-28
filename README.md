@@ -1,4 +1,7 @@
-### 前线 **Android** 开发者<sup>[2015年-至今]</sup>，亦涉猎 **Flutter**。
+### Android & Compose & Flutter 开发者 <sup>[2016年-至今]</sup>
+[[个人简介](https://github.com/OCNYang/OCNYang/blob/master/resume.md)]
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### Github State
 <!--
@@ -24,7 +27,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br/>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
