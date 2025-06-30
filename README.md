@@ -1,7 +1,7 @@
 ### Android & Compose & Flutter 开发者 <sup>[2016年-至今]</sup>
 [[个人简介](https://github.com/OCNYang/OCNYang/blob/master/resume.md)]
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  <!--![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)  -->
 
 ### Github State
 <!--
